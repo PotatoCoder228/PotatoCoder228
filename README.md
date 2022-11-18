@@ -1,4 +1,3 @@
-# AlexanderAtalyan
 <h1 align="center">Hello, I'm Alexander Atalyan</h1>
 <h3 align="center">A software engineer from Russia</h3>
 
