@@ -3,7 +3,7 @@
 [![C](https://img.shields.io/badge/C-0c0b1b?style=for-the-badge&logo=c&logoColor=a8b9cc)](https://github.com/PotatoCoder228)
 [![C++](https://img.shields.io/badge/C++-0c0b1b?style=for-the-badge&logo=c%2B%2B&logoColor=ee82ee)](https://github.com/PotatoCoder228)
 [![WinAPI](https://img.shields.io/static/v1?style=for-the-badge&message=WinAPI&color=0B0A1A&logo=Microsoft&logoColor=4169E1&label=)](https://github.com/PotatoCoder228)
-![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=0B0A1A&logo=GNU+Bash&logoColor=808080&label=)
+![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=0B0A1A&logo=GNU+Bash&logoColor=808080&label=)
 [![Java](https://img.shields.io/badge/java-%230B0A1A.svg?style=for-the-badge&logo=openjdk&logoColor=red)](https://github.com/PotatoCoder228)
 [![Spring](https://img.shields.io/badge/Spring-0c0b1b?style=for-the-badge&logo=spring&logoColor=5fb92e)](https://github.com/PotatoCoder228)
 [![JavaScript](https://img.shields.io/badge/JavaScript-0c0b1b?style=for-the-badge&logo=javascript&logoColor=f7e018)](https://github.com/PotatoCoder228)
