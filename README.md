@@ -31,7 +31,7 @@
 
 ### Contacts
 [![Telegram](https://img.shields.io/badge/Telegram-0c0b1b?style=for-the-badge&logo=telegram&logoColor=1d9bd7)](https://t.me/Toksik_s_VT)
-[![Gmail](https://img.shields.io/badge/Gmail-0c0b1b?style=for-the-badge&logo=gmail&logoColor=red)](https://t.me/Toksik_s_VT)
+[![Gmail](https://img.shields.io/badge/Gmail-0c0b1b?style=for-the-badge&logo=gmail&logoColor=red)](sasha.atalyan@gmail.com)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=PotatoCoder228&theme=radical)
 
