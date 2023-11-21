@@ -7,6 +7,7 @@
 [![Bash](https://img.shields.io/static/v1?style=for-the-badge&message=Bash&color=0B0A1A&logo=GNU+Bash&logoColor=808080&label=)](https://github.com/PotatoCoder228)
 [![Valgrind](https://img.shields.io/badge/Valgrind-0c0b1b?style=for-the-badge&logo=valgrind&logoColor=a8b9cc)](https://github.com/PotatoCoder228)
 [![Bazel](https://img.shields.io/badge/Bazel-0c0b1b?style=for-the-badge&logo=Bazel&logoColor=white)](https://github.com/PotatoCoder228)
+[![Conan](https://img.shields.io/badge/Conan-0c0b1b?style=for-the-badge&logo=Conan&logoColor=pink)](https://github.com/PotatoCoder228)
 [![CMake](https://img.shields.io/badge/CMake-0c0b1b?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/PotatoCoder228)
 [![make](https://img.shields.io/badge/make-0c0b1b?style=for-the-badge&logo=make&logoColor=white)](https://github.com/PotatoCoder228)
 [![Git](https://img.shields.io/badge/Git-0c0b1b?style=for-the-badge&logo=Git&logoColor=FF4500)](https://github.com/PotatoCoder228)
