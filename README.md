@@ -11,8 +11,6 @@
 [![CMake](https://img.shields.io/badge/CMake-0c0b1b?style=for-the-badge&logo=cmake&logoColor=white)](https://github.com/PotatoCoder228)
 [![make](https://img.shields.io/badge/make-0c0b1b?style=for-the-badge&logo=make&logoColor=white)](https://github.com/PotatoCoder228)
 [![Git](https://img.shields.io/badge/Git-0c0b1b?style=for-the-badge&logo=Git&logoColor=FF4500)](https://github.com/PotatoCoder228)
-[![Jenkins](https://img.shields.io/badge/Jenkins-0c0b1b?style=for-the-badge&logo=Jenkins&logoColor=FF4500)](https://github.com/PotatoCoder228)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0c0b1b?style=for-the-badge&logo=Bitbucket&logoColor=FF4500)](https://github.com/PotatoCoder228)
 
 
 ### Others
